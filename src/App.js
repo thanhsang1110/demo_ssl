@@ -7,13 +7,13 @@ function App() {
   <div className="signup">
     <form>
       <label htmlFor="chk" aria-hidden="true">
-        Sign up
+        Sign Up
       </label>
       <input type="text" name="txt" placeholder="User name" required="" />
       <input type="email" name="email" placeholder="Email" required="" />
       <input type="number" name="broj" placeholder="BrojTelefona" required="" />
       <input type="password" name="pswd" placeholder="Password" required="" />
-      <button>Sign up</button>
+      <button>Sign Up</button>
     </form>
   </div>
   <div className="login">
